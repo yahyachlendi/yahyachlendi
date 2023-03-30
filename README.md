@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Taha Yahya Chlendi
-- 🌱 I’m currently learning Python,Django 
+- 🌱 I’m currently learning Html,CSS,JavaScript,Python
 - 📫 How to reach me : Email :chlendiy@gmail.com
 
 <!---
