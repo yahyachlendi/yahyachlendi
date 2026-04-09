@@ -12,7 +12,7 @@
   <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p> 
  <h3 align="left">Connect with me : </h3>
   <p align="left">
-  <a href="https://www.linkedin.com/in/taha-yahya-chlendi-41459822a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Taha Yahia Chlendi" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/taha-yahia-chlendi-41459822a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Taha Yahia Chlendi" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=100008959456447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Taha Yahia Chlendi" height="30" width="40" /></a>
   <a href="https://www.instagram.com/yahyachlendi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Taha Yahia Chlendi" height="30" width="40" /></a></p>
  
